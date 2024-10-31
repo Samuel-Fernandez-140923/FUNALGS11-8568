@@ -27,4 +27,6 @@ for (int x = 0; x < edificio2.Length; x++) {
 }
 Console.WriteLine("Holaaaaaaaaaaaaaaaaaaaaaaaa");
 Console.WriteLine("Holaaaaaaaaaaaaaaaaaaaaaaaa");
+Console.WriteLine("Holaaaaaaaaaaaaaaaaaaaaaaaa");
+
 
